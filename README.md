@@ -1,7 +1,7 @@
 # <span style="color:white;">👋🏻 Sanna Wiklund </span>
 
 
-## <span style="color:white;">Studying .NET development at Teknikhögskolan in Gothenburg ✨</span>
+## <span style="color:white;">Studying .NET development at Teknikhögskolan in Gothenburg, Sweden!</span>
 
 
 
