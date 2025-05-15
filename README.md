@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Sanna!
+# Hi there, I'm Sanna!
 
 - Aspiring fullstack developer with a passion for clean code and creative design.
 - Currently studying .NET development at Teknikhögskolan in Gothenburg.
