@@ -1,33 +1,43 @@
-# <span style="color:white;">👋🏻 Sanna Wiklund </span>
+# 👋 Hi there, I'm Sanna!
 
+- Aspiring fullstack developer with a passion for clean code and creative design.
+- Currently studying .NET development at Teknikhögskolan in Gothenburg.
 
-## <span style="color:white;">Studying .NET development at Teknikhögskolan in Gothenburg, Sweden!</span>
+---
 
+## About Me
 
+I’m a creative and structured developer who enjoys combining design thinking with technical problem-solving.  
+While my main focus is on backend development in C# and .NET, I also enjoy working on the frontend and bringing interfaces to life.
 
-### <span style="color:white;">**My interests**</span>
-* **IT** 👩🏻‍💻💜
-* **Frontend** 💻
-* **Photography** 📸
-* **Graphic design** 🎨
+I’m especially interested in fullstack development, agile workflows, and continuously learning new tools and technologies to improve both user experience and code quality.
 
-<img alt="Instagram-logo" width="30px" align="left" style="padding-right:10px"
-  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png"> 
-  <span style="font-size: larger;">[**Instagram**](https://www.instagram.com/wiklundscreations/)</span>
+---
 
+## Tech Stack
 
-### <span style="color:white;">**Skills**</span>
-<img alt="C#-logo" width="45px" align="left" style="padding-right:10px"
-  src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" />
-<img alt="CSS-logo" width="50px" align="left" style="padding-right:10px"
-  src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png">
-<img alt="SQL-logo" width="45px" align="left" style="padding-right:10px"
-  src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png">
-<img alt="HTML-logo" width="46px" align="left" style="padding-right:10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-  <img alt="JavaScript-logo" width="45px" align="left" style="padding-right:10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<br />
-<br />
+### Languages & Frameworks  
+- C#, .NET, ASP.NET  
+- JavaScript, React, Razor  
+- HTML, CSS, SQL, MongoDB, Entity Framework
 
+### Tools & Platforms  
+- Visual Studio, VS Code, Git & GitHub  
+- Umbraco CMS, Umbraco Cloud  
+- Docker, Azure, K6, ServiceNow  
+
+### Development Practices  
+- Agile methodologies: Scrum & Kanban
+- Git, GitFlow, GitHub Actions
+- CI/CD, unit testing, version control
+
+---
+
+## Fun Fact
+
+I have a background in photography and visual design, which gives me an extra appreciation for UI/UX and the details that make a product truly enjoyable to use.
+
+---
+
+Thanks for stopping by! Feel free to check out my pinned projects below 👇
 
