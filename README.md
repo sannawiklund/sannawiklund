@@ -7,9 +7,7 @@
 
 ## About Me
 
-I’m a creative and structured developer who enjoys combining design thinking with technical problem-solving.  
-While my main focus is on backend development in C# and .NET, I also enjoy working on the frontend and bringing interfaces to life.
-
+I’m a creative and structured developer who enjoys combining design with technical problem-solving.  
 I’m especially interested in fullstack development, agile workflows, and continuously learning new tools and technologies to improve both user experience and code quality.
 
 ---
