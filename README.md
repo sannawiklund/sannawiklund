@@ -1,5 +1,3 @@
-# Hi there, I'm Sanna!
-
 - Aspiring fullstack developer with a passion for clean code and creative design.
 - Currently studying .NET development at Teknikhögskolan in Gothenburg.
 
@@ -22,20 +20,9 @@ I’m especially interested in fullstack development, agile workflows, and conti
 ### Tools & Platforms  
 - Visual Studio, VS Code, Git & GitHub  
 - Umbraco CMS, Umbraco Cloud  
-- Docker, Azure, K6, ServiceNow  
+- Docker, Azure, K6, RabbitMQ  
 
 ### Development Practices  
 - Agile methodologies: Scrum & Kanban
 - Git, GitFlow, GitHub Actions
 - CI/CD, unit testing, version control
-
----
-
-## Fun Fact
-
-I have a background in photography and visual design, which gives me an extra appreciation for UI/UX and the details that make a product truly enjoyable to use.
-
----
-
-Thanks for stopping by! Feel free to check out my pinned projects below 👇
-
