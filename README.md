@@ -1,4 +1,4 @@
-- Aspiring fullstack developer with a passion for clean code and creative design.
+- Aspiring fullstack developer with a passion for structured workflows, clean code and creative design.
 - Currently studying .NET development at Teknikhögskolan in Gothenburg.
 
 ---
