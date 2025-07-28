@@ -1,6 +1,4 @@
-- Aspiring fullstack developer with a passion for structured workflows, clean code and creative design.
-- Currently studying .NET development at Teknikhögskolan in Gothenburg.
-
+- .NET-fullstack developer with a passion for structured workflows, clean code and creative design.
 ---
 
 ## About Me
@@ -20,7 +18,7 @@ I’m especially interested in fullstack development, agile workflows, and conti
 ### Tools & Platforms  
 - Visual Studio, VS Code, Git & GitHub  
 - Umbraco CMS, Umbraco Cloud  
-- Docker, Azure, K6, RabbitMQ  
+- Docker, Azure, K6  
 
 ### Development Practices  
 - Agile methodologies: Scrum & Kanban
