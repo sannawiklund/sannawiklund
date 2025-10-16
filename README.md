@@ -16,9 +16,6 @@
 I’m a developer who thrives where design and logic meet.  
 With a background in both customer service and digital media I bring structure, creativity, and problem-solving into everything I build.  
 
-After several years at **Telia** working with internal improvement processes and incident management, I decided to follow my curiosity for technology and studied **.NET development** at *Teknikhögskolan in Gothenburg*.  
-Since then I’ve focused on **fullstack development**, crafting solutions that are both user friendly and visually appealing.
-
 ---
 
 ## Tech Stack
