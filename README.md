@@ -1,29 +1,51 @@
-**.NET-fullstack developer with a passion for structured workflows, clean code and creative design.
-**---
+# Hi, I'm Sanna Wiklund
 
-[My Portfolio](https://www.sannawiklund.se/)
+**.NET Fullstack Developer** with a passion for structured workflows, clean code, and creative design.
 
+- Based in Gothenburg, Sweden  
+- Always curious, always learning  
+
+---
+
+[Portfolio](https://www.sannawiklund.se) | [LinkedIn](https://www.linkedin.com/in/sannawiklund)
+
+---
 
 ## About Me
 
-I’m a creative and structured developer who enjoys combining design with technical problem-solving.  
-I’m especially interested in fullstack development, agile workflows, and continuously learning new tools and technologies to improve both user experience and code quality.
+I’m a developer who thrives where design and logic meet.  
+With a background in both customer service and digital media I bring structure, creativity, and problem-solving into everything I build.  
+
+After several years at **Telia** working with internal improvement processes and incident management, I decided to follow my curiosity for technology and studied **.NET development** at *Teknikhögskolan in Gothenburg*.  
+Since then I’ve focused on **fullstack development**, crafting solutions that are both user friendly and visually appealing.
 
 ---
 
 ## Tech Stack
 
 ### Languages & Frameworks  
-- C#, .NET, ASP.NET  
-- JavaScript, React, Razor  
-- HTML, CSS, SQL, MongoDB, Entity Framework
+- **C#**, **.NET**, **ASP.NET**  
+- **JavaScript**, **React**, **Razor**  
+- **HTML**, **CSS (Tailwind)**, **SQL**, **MongoDB**, **Entity Framework**
 
 ### Tools & Platforms  
-- Visual Studio, VS Code, Git & GitHub  
-- Umbraco CMS, Umbraco Cloud  
-- Docker, Azure, K6  
+- **Visual Studio**, **VS Code**, **Git & GitHub**  
+- **Umbraco CMS**, **Umbraco Cloud**  
+- **Docker**, **Azure App Service**, **K6**
 
 ### Development Practices  
-- Agile methodologies: Scrum & Kanban
-- Git, GitFlow, GitHub Actions
-- CI/CD, unit testing, version control
+- Agile methodologies: *Scrum & Kanban*  
+- Version control: *Git, GitFlow*  
+- CI/CD with *GitHub Actions*  
+- Unit testing & continuous delivery  
+
+---
+
+## What I'm Working On
+- Building fullstack projects using **React** + **ASP.NET**  
+- Continuously refining my workflow with new tools, languages and frameworks  
+
+---
+
+**Let’s connect!**  
+Reach out via [LinkedIn](https://www.linkedin.com/in/sannawiklund) or check out my [portfolio](https://www.sannawiklund.se).
