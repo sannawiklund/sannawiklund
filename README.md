@@ -1,22 +1,11 @@
 # Hi, I'm Sanna Wiklund
 
-**.NET Fullstack Developer** with a passion for structured workflows, clean code, and creative design.
+**.NET Fullstack Developer** with a passion for fullstack, workflows and creative design.
 
 - Based in Gothenburg, Sweden  
 - Always curious, always learning  
-
----
-
 [Portfolio](https://www.sannawiklund.se) | [LinkedIn](https://www.linkedin.com/in/sannawiklund)
 
----
-
-## About Me
-
-I’m a developer who thrives where design and logic meet.  
-With a background in both customer service and digital media I bring structure, creativity, and problem-solving into everything I build.  
-
----
 
 ## Tech Stack
 
